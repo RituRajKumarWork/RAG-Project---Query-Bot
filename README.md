@@ -54,13 +54,15 @@ This pipeline ensures responses are **grounded in the uploaded documents**, impr
 
 ## 📸 Screenshots
 
-Place screenshots inside `assets/screenshots/`
+### Home Screen
+<img src="https://github.com/user-attachments/assets/ec2e336e-e7d4-48b6-9959-e5ab76fb6400" width="100%" />
 
-![Home Screen](<img width="1920" height="1080" alt="Screenshot (1691)" src="https://github.com/user-attachments/assets/ec2e336e-e7d4-48b6-9959-e5ab76fb6400" />
-)
-![PDF Upload](assets/screenshots/upload.png)
-![Chat Interface](<img width="1920" height="1080" alt="Screenshot (1694)" src="https://github.com/user-attachments/assets/789cfebe-9c6a-4840-bd5a-746ffb6b21b0" />
-)
+### PDF Upload
+<img src="assets/screenshots/upload.png" width="100%" />
+
+### Chat Interface
+<img src="https://github.com/user-attachments/assets/789cfebe-9c6a-4840-bd5a-746ffb6b21b0" width="100%" />
+
 
 ---
 
