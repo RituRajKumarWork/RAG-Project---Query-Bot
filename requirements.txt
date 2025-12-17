@@ -1,0 +1,14 @@
+streamlit
+python-dotenv
+PyPDF2
+PyMuPDF
+faiss-cpu
+tiktoken
+
+# LangChain (new architecture)
+langchain==0.2.12
+langchain-community==0.2.11
+langchain-core==0.2.43
+
+# Ollama
+langchain-ollama
